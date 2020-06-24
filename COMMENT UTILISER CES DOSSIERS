@@ -1,0 +1,7 @@
+Une fois que vous les avez téléchargés, vous pouvez au choix regarder le code qu'il y a à l'interieur pour vous aider / corriger.
+
+Ou encore si vous voulez faire fonctionner les projets, séparer le dossier que vous voulez utiliser, pour qu'il n'y est qu'un seul dossier unique.
+
+Puis ouvrez le terminal lié au dossier et executez la commande "npm install".
+
+Cela sert à vous créer le dossier node_modules avec toutes les dépendances nécessaire au fonctionnement des projets.
